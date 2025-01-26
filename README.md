@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Welcome to Crystal Harker's UX Design and Developer Portfolio! 🚀</h1>
+    <p>Hello and welcome! Thank you for visiting my portfolio. I'm Crystal Harker, a passionate UX Designer/ web developer specialized in creating dynamic and responsive websites. Visit WILL ADD SOON! and check out some of the awesome projects I've worked on!</p>
 
-<!--
-**Cryshark17/Cryshark17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>About Me 🧑‍💻</h2>
+    <p>I'm Crystal, a UX designer and web developer passionate about creating intuitive and visually engaging digital experiences. With a foundation in computer information systems and a strong focus on user-centered design, I bring expertise in React, Tailwind CSS, and modern development frameworks. My approach combines clean design aesthetics with functional excellence, ensuring that every project is both impactful and user-friendly. Beyond design, I’m committed to continuous learning and refining my craft to deliver solutions that truly resonate with users. </p>
 
-Here are some ideas to get you started:
+  <h2>Technologies and Skills 🛠️</h2>
+    <ul>
+        <li><strong>Languages:</strong> HTML, JavaScript, TypeScript</li>
+        <li><strong>Frameworks/Libraries:</strong> React, NextJS</li>
+        <li><strong>Styling:</strong> CSS, Tailwind CSS, Material UI, Bootstrap</li>
+        <li><strong>Version Control:</strong> Git, GitHub</li>
+        <li><strong>Backend:</strong> Node, Express, SocketIO</li>
+    </ul>
+    <p>Each project in my portfolio is a testament to my dedication to code quality, user experience, and responsive design. By adopting a mobile-first approach and emphasizing web performance, I ensure that every creation leaves a lasting impression.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>Explore My Portfolio 🌐</h2>
+    <p>COMING SOON</p>
