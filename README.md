@@ -18,11 +18,7 @@
 
   <h2>Technologies and Skills 💻🛠️</h2>
     <ul>
-        <li><strong>Languages:</strong> HTML, </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
-    </a>
-    &emsp;, TypeScript</li>
+        <li><strong>Languages:</strong> HTML,Javascript, TypeScript</li>
         <li><strong>Frameworks/Libraries:</strong> React, NextJS</li>
         <li><strong>Styling:</strong> CSS, Tailwind CSS, Material UI, Bootstrap</li>
         <li><strong>Version Control:</strong> Git, GitHub</li>
@@ -32,6 +28,47 @@
 
   <h2>Explore My Portfolio 🌐‼️</h2>
     <p>COMING SOON</p>
+
+## 🧰 My Toolbox
+
+</br>
+
+<p align="center">
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-050505?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-FFFFFF?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
+    </a>
+    &emsp;
+</p>
+
+
+
+
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cryshark17&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
