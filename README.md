@@ -13,7 +13,7 @@
         <li><strong>Backend:</strong> Node, Express, SocketIO</li>
     </ul>
     <p>Each project in my portfolio is a testament to my dedication to code quality, user experience, and responsive design. By adopting a mobile-first approach and emphasizing web performance, I ensure that every creation leaves a lasting impression.</p>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Cryshark17&color=blueviolet)
   <h2>Explore My Portfolio 🌐‼️</h2>
     <p>COMING SOON</p>
 
