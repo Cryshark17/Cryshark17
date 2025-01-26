@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryshark17)](https://github.com/Cryshark17/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cryshark17&show_icons=true&theme=transparent)
-![](https://komarev.com/ghpvc/Cryshark17&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Cryshark17&color=blueviolet)
