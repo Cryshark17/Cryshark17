@@ -18,7 +18,11 @@
 
   <h2>Technologies and Skills 💻🛠️</h2>
     <ul>
-        <li><strong>Languages:</strong> HTML, JavaScript, TypeScript</li>
+        <li><strong>Languages:</strong> HTML, </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
+    </a>
+    &emsp;, TypeScript</li>
         <li><strong>Frameworks/Libraries:</strong> React, NextJS</li>
         <li><strong>Styling:</strong> CSS, Tailwind CSS, Material UI, Bootstrap</li>
         <li><strong>Version Control:</strong> Git, GitHub</li>
