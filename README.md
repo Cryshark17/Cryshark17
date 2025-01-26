@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Cryshark17&color=blueviolet)
 <h1>Welcome to Crystal Harker's UX Design and Developer Portfolio! 🎨</h1>
     <p>Hello and welcome! Thank you for visiting my portfolio. I'm Crystal Harker, a passionate UX Designer/ web developer specialized in creating dynamic and responsive websites. Visit WILL ADD SOON! and check out some of the awesome projects I've worked on!</p>
 
@@ -19,4 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryshark17)](https://github.com/Cryshark17/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cryshark17&show_icons=true&theme=transparent)
-![](https://komarev.com/ghpvc/?username=Cryshark17&color=blueviolet)
+
