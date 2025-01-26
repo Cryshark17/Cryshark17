@@ -1,3 +1,14 @@
+<div>
+    &emsp;&emsp;&emsp;
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-dark-mode-only"> 
+        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="Daily Quotes">
+    </a>
+    <a href="https://github.com/cheehwatang/github-readme-daily-quotes#gh-light-mode-only"> 
+        <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="Daily Quotes">
+    </a>
+</div>
+
+
 ![](https://komarev.com/ghpvc/?username=Cryshark17&color=blueviolet)
 <h1>Welcome to Crystal Harker's UX Design and Developer Portfolio! 🎨</h1>
     <p>Hello and welcome! Thank you for visiting my portfolio. I'm Crystal Harker, a passionate UX Designer/ web developer specialized in creating dynamic and responsive websites. Visit WILL ADD SOON! and check out some of the awesome projects I've worked on!</p>
