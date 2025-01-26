@@ -16,3 +16,5 @@
 
   <h2>Explore My Portfolio 🌐‼️</h2>
     <p>COMING SOON</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryshark17)](https://github.com/Cryshark17/github-readme-stats)
