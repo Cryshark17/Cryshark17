@@ -13,9 +13,10 @@
         <li><strong>Backend:</strong> Node, Express, SocketIO</li>
     </ul>
     <p>Each project in my portfolio is a testament to my dedication to code quality, user experience, and responsive design. By adopting a mobile-first approach and emphasizing web performance, I ensure that every creation leaves a lasting impression.</p>
-[!(https://komarev.com/ghpvc/?username=Cryshark17&color=blueviolet)
+
   <h2>Explore My Portfolio 🌐‼️</h2>
     <p>COMING SOON</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryshark17)](https://github.com/Cryshark17/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cryshark17&show_icons=true&theme=transparent)
+![](https://komarev.com/ghpvc/?Cryshark17&color=blueviolet)
