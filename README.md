@@ -18,3 +18,4 @@
     <p>COMING SOON</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryshark17)](https://github.com/Cryshark17/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cryshark17&show_icons=true&theme=transparent)
