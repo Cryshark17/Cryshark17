@@ -9,7 +9,8 @@
 </div>
 
 
-<center>![](https://komarev.com/ghpvc/?username=Cryshark17&color=blueviolet)</center>
+
+
 <h1>Welcome to Crystal Harker's UX Design and Developer Portfolio! 🎨</h1>
     <p>Hello and welcome! Thank you for visiting my portfolio. I'm Crystal Harker, a passionate UX Designer/ web developer specialized in creating dynamic and responsive websites. Visit WILL ADD SOON! and check out some of the awesome projects I've worked on!</p>
 
@@ -117,7 +118,7 @@
 </p>
 
 
-
+![](https://komarev.com/ghpvc/?username=Cryshark17&color=blueviolet)
 
 
 
