@@ -63,6 +63,36 @@
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
     </a>
     &emsp;
+        </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Figma" src="https://img.shields.io/badge/Figma-050505?style=for-the-badge&logo=figma#gh-dark-mode-only"/>
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Figma" src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma#gh-light-mode-only"/>
+    </a>
+    &emsp;
+     <a href="#gh-dark-mode-only">
+        <img alt="HTML" src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="HTML" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="CSS" src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=1572B6#gh-dark-mode-only">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="CSS" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6#gh-light-mode-only">
+    </a>
+    &emsp;
+    <a href="#gh-dark-mode-only">
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC#gh-dark-mode-only"/>
+    </a>
+    <a href="#gh-light-mode-only">
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC#gh-light-mode-only"/>
+    </a>
+    &emsp;
 </p>
 
 
