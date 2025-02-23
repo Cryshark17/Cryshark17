@@ -128,4 +128,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cryshark17&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
-![alt text](figma proj 1.png)
+![images/figma proj 1.png](figma proj 1.png)
