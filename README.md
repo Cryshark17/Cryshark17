@@ -127,5 +127,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cryshark17&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-
+<details>
+<summary>
+  Check out my latest FIGMA project
+</summary>
 ![Image](https://github.com/user-attachments/assets/a412c543-ea3a-4e3f-8157-b50e58b0f4d0)
